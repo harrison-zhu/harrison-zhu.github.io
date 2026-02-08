@@ -3,7 +3,8 @@
     color: black;
     padding: 100px;
     margin: 50px;
-    max-width: 50px;
+    max-width: 20px;
+    max-height: 20px;
 }
 
 .non_decorative_image {
@@ -11,7 +12,8 @@
     color: black;
     padding: 100px;
     margin: 50px;
-    max-width: 500px;
+    max-width: 200px;
+    max-height: 300px;
 }
 
 h1 {
@@ -28,6 +30,15 @@ h2 {
     font-size: 24px;
     font-weight: 100;
     color: maroon;
+    margin: 0;
+    padding: 20px;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 100;
+    color: rgb(0, 0, 157);
     margin: 0;
     padding: 20px;
 }
