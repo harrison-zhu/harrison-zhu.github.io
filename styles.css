@@ -1,7 +1,33 @@
-.ugly {
-    background: rgb(0, 255, 13);
-    font-size: larger;
-    color: red;
+.decorative_image {
+    font-size: 12px;
+    color: black;
     padding: 100px;
     margin: 50px;
+    max-width: 50px;
+}
+
+.non_decorative_image {
+    font-size: 12px;
+    color: black;
+    padding: 100px;
+    margin: 50px;
+    max-width: 500px;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+    color: black;
+    margin: 0;
+    padding: 35px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 100;
+    color: maroon;
+    margin: 0;
+    padding: 20px;
 }
