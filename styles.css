@@ -28,7 +28,7 @@
 .section_div {
     background-color: rgb(232, 232, 232);
     max-width: 500px;
-    margin: 0 auto;
+    margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -83,9 +83,9 @@ ol {
     color: black;
     margin-top: 10px;
     margin-bottom: 10px;
-    list-style-position: inside;
+    margin-left: 0.75em;
+    text-align: left;
     padding: 20px;
-    padding-left: 1.5rem;
 }
 
 ul {
@@ -95,9 +95,9 @@ ul {
     color: black;
     margin-top: 10px;
     margin-bottom: 10px;
-    list-style-position: inside;
+    margin-left: 0.75em;
+    text-align: left;
     padding: 20px;
-    padding-left: 1.5rem;
 }
 
 li {
