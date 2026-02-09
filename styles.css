@@ -23,14 +23,15 @@
     margin: 0 auto;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     border-radius: 3px;
+    padding-bottom: 30px;
 }
 
 .section_div {
     background-color: rgb(232, 232, 232);
     max-width: 500px;
     margin: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
@@ -83,7 +84,7 @@ ol {
     color: black;
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-left: 0.75em;
+    margin-left: 20px;
     text-align: left;
     padding: 20px;
 }
@@ -95,7 +96,7 @@ ul {
     color: black;
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-left: 0.75em;
+    margin-left: 20px;
     text-align: left;
     padding: 20px;
 }
